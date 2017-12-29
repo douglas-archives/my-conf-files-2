@@ -39,6 +39,8 @@ touch ~/.config/fish/config.fish
 echo "set -gx PATH $HOME/.local/bin \$PATH" >> ~/.config/fish/config.fish
 curl https://raw.githubusercontent.com/mitsuhiko/pipsi/master/get-pipsi.py | python2
 
+# Install fish plugin https://github.com/fisherman/done
+
 pipsi install pew
 pipsi install pipenv
 
