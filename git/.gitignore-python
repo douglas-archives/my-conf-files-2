@@ -1,0 +1,46 @@
+*.py[cod]
+__pycache__
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+htmlcov
+
+# Translations
+*.mo
+
+# Pycharm/Intellij
+.idea
+
+# SublimeText
+*.sublime-project
+*.sublime-workspace
+
+# Sphinx
+docs/_build
+
+# Local dev
+*db.sqlite3
+tmp/
