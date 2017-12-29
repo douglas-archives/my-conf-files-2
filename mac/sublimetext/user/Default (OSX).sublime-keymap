@@ -1,0 +1,5 @@
+[
+    { "keys": ["super+alt+b"], "command": "toggle_side_bar" },
+    { "keys": ["super+alt+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    { "keys": ["super+shift+a"], "command": "expand_selection", "args": {"to": "tag"} },
+]

@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Color Highlighter",
+		"Djaneiro",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"GitStatusBar",
+		"nginx",
+		"One Dark Color Scheme",
+		"Package Control",
+		"requirementstxt",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"Theme - One Dark"
+	]
+}
